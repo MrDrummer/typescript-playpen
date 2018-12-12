@@ -1,0 +1,26 @@
+{
+  "name": "typescript-playpen",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsnd src/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrDrummer/typescript-playpen.git"
+  },
+  "author": "MrDrummer25",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrDrummer/typescript-playpen/issues"
+  },
+  "homepage": "https://github.com/MrDrummer/typescript-playpen#readme",
+  "dependencies": {
+    "ts-node-dev": "^1.0.0-pre.31",
+    "typescript": "^3.2.2"
+  },
+  "devDependencies": {
+    "@types/node": "^10.12.12"
+  }
+}
