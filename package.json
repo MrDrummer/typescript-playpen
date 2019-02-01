@@ -17,8 +17,8 @@
   },
   "homepage": "https://github.com/MrDrummer/typescript-playpen#readme",
   "dependencies": {
-    "ts-node-dev": "^1.0.0-pre.31",
-    "typescript": "^3.2.2"
+    "ts-node-dev": "^1.0.0-pre.32",
+    "typescript": "^3.3.1"
   },
   "devDependencies": {
     "@types/node": "^10.12.12"
